@@ -1,4 +1,4 @@
-###<h1>Important Files</h1>###
+<h1>Important Files</h1>
 ---
 
 ## Important Files
