@@ -1,0 +1,2 @@
+model,best_params,cv_mean_f1,cv_std_f1,cv_95ci_low,cv_95ci_high,test_accuracy,test_f1_weighted,test_precision_weighted,test_recall_weighted
+RandomForest,"{'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 200}",0.9441764182938497,0.005507758746446812,0.9365304233877584,0.951822413199941,0.9425,0.9419889790160467,0.9426387133526172,0.9425
