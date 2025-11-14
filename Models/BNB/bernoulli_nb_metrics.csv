@@ -1,0 +1,2 @@
+model,best_params,cv_mean_f1,cv_std_f1,cv_95ci_low,cv_95ci_high,test_accuracy,test_f1_weighted,test_precision_weighted,test_recall_weighted,test_accuracy_ci_low,test_accuracy_ci_high,test_f1_ci_low,test_f1_ci_high
+BernoulliNB,"{'classifier__alpha': 1.0, 'classifier__binarize': 0.0, 'classifier__fit_prior': True}",0.8546142348756692,0.012836985104333657,0.8367936426464571,0.8724348271048814,0.8595833333333334,0.8619201761855332,0.8718992769303219,0.8595833333333334,0.84540625,0.8729270833333334,0.8483601995154691,0.8749621546180263
